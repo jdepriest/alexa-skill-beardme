@@ -1,7 +1,7 @@
 {
-  "name": "skill-sample-nodejs-fact-i18n",
+  "name": "pogonotrophy-beard-me",
   "version": "1.0.0",
-  "description": "I18n version of fact skill.",
+  "description": "Beard Me - facts about difference facial hair styles.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,8 +11,8 @@
     "skill",
     "fact"
   ],
-  "author": "Amazon.com",
-  "license": "Apache-2.0",
+  "author": "Jacob DePriest",
+  "license": "Apache-2.0 and CC BY-SA 3.0",
   "dependencies": {
     "alexa-sdk": "^1.0.6"
   }
